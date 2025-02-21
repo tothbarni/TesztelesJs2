@@ -23,7 +23,7 @@ export function szamokOsszegeTeszt(n) {
     },
     {
       n: 10000000000,
-      vart: 11,
+      vart: 1,
       txt: "sokjegyű, egyik 1",
     },
     {
